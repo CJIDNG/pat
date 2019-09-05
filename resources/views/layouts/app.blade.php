@@ -82,7 +82,9 @@
     <script>
     var botmanWidget = {
         title: 'AsariTheBot',
-        introMessage: 'Hi, I’m Asari the Lawyer Bot. I’m here to help you protect your rights. Have you or someone you know been attacked? Type \'Yes\' or \'No\'',  
+        introMessage: 'Hi, I’m Asari the Lawyer Bot. I’m here to help you protect your rights. Have you or someone you know been attacked? Type \'Yes\' or \'No\'', 
+        bubbleAvatarUrl: '/img/asarithebot.png',
+        aboutText: ''
     };
     </script>
     <script src='https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/widget.js'></script>
